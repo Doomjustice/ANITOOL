@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/6c9b7b43-33e4-4060-9135-4eb6bf66e91d)
 
 
-# Build For Discord Packers
+# Built For Discord Packers
 
 
 
