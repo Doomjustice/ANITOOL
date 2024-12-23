@@ -1,3 +1,6 @@
+```ANITOOL V2 BY DJ```
+
+
 # An Self bot That made For Discord Packers.
 ![image](https://github.com/user-attachments/assets/6c9b7b43-33e4-4060-9135-4eb6bf66e91d)
 
