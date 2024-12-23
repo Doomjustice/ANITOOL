@@ -6,7 +6,7 @@
 
 
 
-# Credit: DJ % Rim.
+# Credit: DJ & Rim.
 
 # Warning! : This Tool Was Made for education Purpose
 
