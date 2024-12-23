@@ -1,76 +1,21 @@
+# An Self bot That made For Discord Packers.
+![image](https://github.com/user-attachments/assets/6c9b7b43-33e4-4060-9135-4eb6bf66e91d)
 
-# This self bot desgined for Paclers shit 
 
-# Anti-retard sb - Commands
+# Build For Discord Packers
 
-> Help Commands
-- **`>help.packing`** - Shows Packing Commands
-- **`>help.auto_response`** - Shows Auto Response Commands
-- **`>help.gc`** - Shows GC Commands
-- **`>help.reactions`** - Shows Reaction Commands
-- **`>help.utils`** - Shows Util Commands
-- **`>help.spam`** - Shows Spam Commands
-- **`>help.info`** - Shows Info Commands
-- **`>help.admin`** - Shows Admin Commands
-- **`>help.all`** - Shows All Commands
-- **`>services`** - Shows Running Services
 
-> Packing Commands
-- **`>pack`** - Starts Packing
-- **`>stop_pack`** - Stops Packing
-- **`>delete_pack`** - Deletes Last Pack
-- **`>set_user_response.large (user) (message)`** / Sets auto response for large messages
 
-> Auto Response Commands
-- **`>set_delay (delay)`** - Sets delay between messages
-- **`>set_response (message)`** - Sets auto response on pings
-- **`>disable_response`** - Disables auto response
-- **`>copy_cat (user)`** - Copies everything the user says
-- **`>stop_copy_cat`** - Stops Copy Catting
+# Credit: DJ % Rim.
 
-> GC Commands
-- **`>lock_gc`** - Locks Current GC
-- **`>unlock_gc`** - Unlocks Locked GC
-- **`>auto_name`** - Spam Changes GC name
-- **`>stop_auto_name`** - Stops auto name spam
-- **`>leave_all_gcs (Optional[exceptions by ids])`** - Leaves all group channels
-- **`>mass_add (user/s)`** - Adds and removes user from a GC
-- **`>stop_mass_add`** - Stops Mass Adding
+# Warning! : This Tool Was Made for education Purpose
 
-> Reaction Commands
-- **`>auto_react (user) (emojis)`** - Auto Reacts to messages
-- **`>stop_react`** - Stops auto reacting
-- **`>add_reactions (bomb/emojis)`** - Adds Reactions
+Please remember that selfbots arent fully suported by Discord and that it should only be used to make YOUR life easier and not others. Also keep in mind that discord has a set of rules regarding selfbots:
+A selfbot must not, under any circumstance, act like a normal bot (responding to user commands, etc)
+A selfbot must not, under any circumstance, do "invite scraping". This is the action of detecting server invites in chat, and automatically joining a server using that invite.
+As selfbots run under your account they are subject to the same Terms of Service. Meaning they should not spam, insult or demean others, post NSFW material, spread viruses or illegal material, etc. They have to follow the same rules that you follow.
+Abusing the API such as spamming users, or spamming the API itself can and will cause your account to be banned
+Discord does not 'support' self bots.
+IF, and only if you accept the above rules of selfbots, then you may proceed. You might get warned but it appears it's just a ban if caught. Good luck, soldiers.
 
-> Spam Commands
-- **`>spam (message)`** - Starts Spamming the defined message
-- **`>stop_spam`** - Stops Spamming
-- **`>delete_spam`** - Deletes Last Spam
-- **`>ghost_ping (user)`** - Spam Ghost Pings user
-- **`>stop_ghost_ping`** - Stops Ghost Pinging
-
-> Info Commands
-- **`>user_info (user)`** - Shows User Info
-- **`>server_info`** - Shows Server Info
-- **`>gc_info`** - Shows Group Chats Info
-- **`>my_info`** - Shows Your Info
-
-> Admin Commands
-- **`>nuke`** - Nukes A channel
-- **`>lock`** - Locks Current Channel
-- **`>kick (user) (Optional[reason])`** - Kicks A User
-- **`>ban (user) (Optional[reason])`** - Bans A User
-
-> Misc Commands
-- **`>snipe (number)`** - Snipes last deleted message
-- **`>copy_server (ServerID_from) (serverID_to)`** - Copies A Server
-- **`>report_message (ReplyToMessage/MessageLink)`** - Mass Reports a Messages
-- **`>auto_read`** - Auto Reads Messages
-- **`>disable_auto_read`** - Stops Auto Reading
-- **`>mass_dm (message)`** - Mass DMs all friends and open DMs
-- **`>ping`** - Shows Bot Latency
-- **`>translate (text)`** - Translates Text to English
-- **`>quit`** - Quits The Bot
-
-Made by `.doomjustice`
-
+# use it at your own risk! Soldiers.
