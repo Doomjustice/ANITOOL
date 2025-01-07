@@ -20,7 +20,7 @@
 
 ```open setup.bat and it will automatically installs required modules```
 
-```and Then Launch start.bat Paste Your Discord Account Token. and press enter```
+```Paste Your Discord Account Token and id in the config.json. and Then Launch start.bat```
 
 # Built For Discord Packers
 
